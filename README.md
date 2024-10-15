@@ -1,5 +1,5 @@
 # GoogleAuthenticator
-cpp GoogleAuthenticator
+cpp/c++ GoogleAuthenticator
 
 ---
 
