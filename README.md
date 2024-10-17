@@ -1,6 +1,8 @@
 # GoogleAuthenticator
 cpp/c++ GoogleAuthenticator
 
+详细文档请参考：[[C++] Google Authenticator 算法实现](https://wenfh2020.com/2024/10/15/cpp-google-authenticator/)
+
 ---
 
 ## interface 
